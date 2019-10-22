@@ -2,17 +2,19 @@
 ### Come funziona
 Qui troverete le app e gli sconti per gli studenti divisi in categorie ed università.
 
-Potete anche aggiungere app o sconti direttamente su  [GitHub](https://github.com/binc0/scontistudenti) creando un issue o con una pull request.
+Potete anche aggiungere app o offerte direttamente su  [GitHub](https://github.com/binc0/scontistudenti) creando un issue o con una pull request.
 
 
 ## Indice
-### 1. App Univeristà
+### 1. [App Univeristà](#1-app-univeristà)
 - **UniPD**
 ### 2. App
 
-### 3. Offetre
+### 3. Offerte
 
+## 1. App Univeristà
+- **UniPD**
 
-### Support or Contact
+## 2. App
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 3. Offerte
