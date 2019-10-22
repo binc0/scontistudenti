@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# App e Offerte Studenti
+### Come funziona
+Qui troverete le app e gli sconti per gli studenti divisi in categorie ed università.
 
-You can use the [editor on GitHub](https://github.com/binc0/scontistudenti/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Potete anche aggiungere app o offerte direttamente su  [GitHub](https://github.com/binc0/scontistudenti) creando un issue o con una pull request.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Indice
+### 1. [App Univeristà](#1-app-univeristà)
+- **UniPD**
+### 2. [App](#2-app)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 3. [Offerte](#3-offerte)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## 1. App Univeristà
+### UniPD
+#### [Unipd App](https://www.unipd.it/app) :
+Sito app UniPd
+#### [Unipd orari](https://www.economia.unipd.it/applicazione-orari) :
+ L'applicazione consente a studenti e docenti di avere a portata di mano tutte le informazioni relative all’organizzazione delle lezioni ed alla disponibilità delle aule gestite.
+### Altre università in arrivo...
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## 2. App
+#### [Uniwhere](http://www.uniwhere.com/app/) :
+Join Uniwhere, the most important talent community in Europe. Track your knowledge, understand how to shape your future, and get accelerated into the workspace!
 
-**Bold** and _Italic_ and `Code` text
+### Altre app in arrivo...
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## 3. Offerte
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/binc0/scontistudenti/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### [Amazon Prime studenti](https://cutt.ly/amazonstudenti) :
+Prime Student offre agli studenti universitari tutti i benefici di Amazon Prime, con un periodo d'uso senza costi aggiuntivi di 90 giorni e successivamente uno sconto del 50% dal prezzo normale di Amazon Prime, e comprende:
 
-### Support or Contact
+- Spedizioni veloci illimitate senza costi aggiuntivi
+- Centinaia di film e serie TV in streaming su Prime Video
+- Offerte esclusive per studenti
+- Oltre 2 milioni di brani in streaming con Prime Music
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+### Altre offerte in arrivo...
