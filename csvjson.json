@@ -1,51 +1,51 @@
-[
-  {
+{
+  "1": {
     "Nome": "Revolut 1",
     "text": "Offerta revolut 5€",
     "image": "https://example.com",
     "link": "https://example.com",
     "tag": "Bank"
   },
-  {
+  "2": {
     "Nome": "Revolut 2",
     "text": "Offerta revolut 5€",
     "image": "https://example.com",
     "link": "https://example.com",
     "tag": "Bank"
   },
-  {
+  "3": {
     "Nome": "Revolut 3",
     "text": "Offerta revolut 5€",
     "image": "https://example.com",
     "link": "https://example.com",
     "tag": "Bank"
   },
-  {
+  "4": {
     "Nome": "Revolut 4",
     "text": "Offerta revolut 5€",
     "image": "https://example.com",
     "link": "https://example.com",
     "tag": "Bank"
   },
-  {
+  "5": {
     "Nome": "Revolut 5",
     "text": "Offerta revolut 5€",
     "image": "https://example.com",
     "link": "https://example.com",
     "tag": "Bank"
   },
-  {
+  "6": {
     "Nome": "Revolut 6",
     "text": "Offerta revolut 5€",
     "image": "https://example.com",
     "link": "https://example.com",
     "tag": "Bank"
   },
-  {
+  "7": {
     "Nome": "Revolut 7",
     "text": "Offerta revolut 5€",
     "image": "https://example.com",
     "link": "https://example.com",
     "tag": "Bank"
   }
-]
+}
