@@ -1,6 +1,6 @@
  var settings = {
   "async": true,
-  "url": "https://raw.githubusercontent.com/binc0/studenti/master/csvjson.json,
+  "url": "https://raw.githubusercontent.com/binc0/studenti/master/csvjson.json",
   "method": "GET",
 };
 
