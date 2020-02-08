@@ -2,13 +2,13 @@
             
             <div class="listing-item">
               <div class="listing-image">
-                <img src="images/img_1.jpg" alt="Free Website Template by Free-Template.co" class="img-fluid">
+                <img src="' + jcontent.elements[0].image +'" alt="' + jcontent.elements[0].Nome +'" class="img-fluid">
               </div>
               <div class="listing-item-content">
                 <a href="listings-single.html" class="bookmark" data-toggle="tooltip" data-placement="left" title="Bookmark"><span class="icon-heart"></span></a>
-                <a class="px-3 mb-3 category" href="#">Hotels</a>
-                <h2 class="mb-1"><a href="listings-single.html">Luxe Hotel</a></h2>
-                <span class="address">West Orange, New York</span>
+                <a class="px-3 mb-3 category" href="#' + jcontent.elements[0].tag +'">' + jcontent.elements[0].tag +'</a>
+                <h2 class="mb-1"><a href="listings-single.html">' + jcontent.elements[0].Nome +'</a></h2>
+                <span class="address">' + jcontent.elements[0].text +'</span>
               </div>
             </div>
 
