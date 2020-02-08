@@ -1,4 +1,4 @@
-{
+[
   {
     "Nome": "Revolut 1",
     "text": "Offerta revolut 5€",
@@ -48,4 +48,4 @@
     "link": "https://example.com",
     "tag": "Bank"
   }
-}
+]
