@@ -6,7 +6,7 @@
 
 $.ajax(settings).done(function (jcontent){
     
-    console.log(jcontent[0]);
+    console.log(jcontent);
    
 for (var i = 0; i < jcontent.count; i++) {
     console.log(i);
