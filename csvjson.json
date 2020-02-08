@@ -1,4 +1,4 @@
-"elements" :[
+{"elements" :[
   {
     "Nome": "Revolut 1",
     "text": "Offerta revolut 5€",
@@ -49,3 +49,4 @@
     "tag": "Bank"
   }
 ]
+}
